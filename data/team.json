@@ -59,27 +59,22 @@
       },
       {  
         "name": "Sunil Tiptur Nataraj",
-        "photoUrl": "/images/people/murat.jpg",
+        "photoUrl": "/images/people/sunil.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+MuratYener",
+            "link": "https://plus.google.com/+SunilNataraj",
             "name": "Google+"
           },
           {
             "icon": "facebook",
-            "link": "https://www.facebook.com/murat.yener",
+            "link": "https://www.facebook.com/sunil.nataraj.1",
             "name": "Facebook"
           },
           {
-            "icon": "twitter",
-            "link": "https://twitter.com/yenerm",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://www.devchronicles.com/",
-            "name": "Blog"
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/sunil-nataraj-30aa9720",
+            "name": "Linkedin"
           }
         ],
         "title": "Team DevFest"
