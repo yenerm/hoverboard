@@ -130,30 +130,21 @@
     ]
   },
   "tickets": {
-    "url": "http://2event.com/events/630032",
+    "url": "http://www.eventbrite.com/e/gdg-san-francisco-devfest-2016-tickets-27271769597?aff=site",
     "elements": [
       {
-        "name": "student-ticket",
-        "price": 500,
-        "currency": "₴",
-        "starts": "student-ticket-starts",
-        "ends": "student-ticket-ends",
-        "info": "student-ticket-info",
-        "soldOut": false
-      },
-      {
         "name": "early-ticket",
-        "price": 750,
-        "currency": "₴",
+        "price": 20,
+        "currency": "$",
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
         "info": "early-ticket-info",
-        "soldOut": true
+        "soldOut": false
       },
       {
         "name": "lazy-ticket",
-        "price": 1000,
-        "currency": "₴",
+        "price": 25,
+        "currency": "$",
         "starts": "lazy-ticket-starts",
         "ends": "lazy-ticket-ends",
         "soldOut": false
@@ -164,15 +155,15 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 600,
+      "counter": 200,
       "caption": "attendees"
     },
     {
-      "counter": 2,
+      "counter": 1,
       "caption": "days"
     },
     {
-      "counter": 30,
+      "counter": 15,
       "caption": "sessions"
     },
     {
@@ -180,7 +171,7 @@
       "caption": "tracks"
     }
   ],
-  "hashtag": "dfsf",
+  "hashtag": "GDGsf",
   "social": [
     {
       "name": "twitter",
@@ -218,13 +209,13 @@
     "apiKey": "",
     "link": "https://www.facebook.com/expopivdennij",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 37.7895791,
+      "longitude": -122.395198,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 37.7895791,
+      "longitude": -122.395198
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
