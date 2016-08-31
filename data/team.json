@@ -1,101 +1,146 @@
 [
   {
-    "title": "Dream Team",
+    "title": "Core Team",
     "members": [
+
       {
         "name": "James Cha",
-        "photoUrl": "/images/people/oleh_zasadnyy.jpg",
+        "photoUrl": "/images/people/murat.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+OlehZasadnyy",
+            "link": "https://plus.google.com/+MuratYener",
             "name": "Google+"
           },
           {
             "icon": "facebook",
-            "link": "https://www.facebook.com/oleh.zasadnyy",
+            "link": "https://www.facebook.com/murat.yener",
             "name": "Facebook"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/ozasadnyy",
+            "link": "https://twitter.com/yenerm",
             "name": "Twitter"
           },
           {
             "icon": "website",
-            "link": "http://o.zasadnyy.com/",
+            "link": "http://www.devchronicles.com/",
             "name": "Blog"
           }
         ],
-        "title": "Website and sponsors"
+        "title": "Team DevFest"
       },
-      {
+      {  
         "name": "Murat Yener",
-        "photoUrl": "/images/people/sofiya_huts.jpg",
+        "photoUrl": "/images/people/murat.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+SofiaHuts",
+            "link": "https://plus.google.com/+MuratYener",
             "name": "Google+"
           },
           {
             "icon": "facebook",
-            "link": "https://www.facebook.com/sophie.huts.7",
+            "link": "https://www.facebook.com/murat.yener",
             "name": "Facebook"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/yenerm",
+            "name": "Twitter"
+          },
+          {
+            "icon": "website",
+            "link": "http://www.devchronicles.com/",
+            "name": "Blog"
           }
         ],
-        "title": "Social and media"
+        "title": "Team DevFest"
       },
-      {
-        "name": "James Cha",
-        "photoUrl": "/images/people/oleh_zasadnyy.jpg",
+      {  
+        "name": "Sunil Tiptur Nataraj",
+        "photoUrl": "/images/people/murat.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+OlehZasadnyy",
+            "link": "https://plus.google.com/+MuratYener",
             "name": "Google+"
           },
           {
             "icon": "facebook",
-            "link": "https://www.facebook.com/oleh.zasadnyy",
+            "link": "https://www.facebook.com/murat.yener",
             "name": "Facebook"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/ozasadnyy",
+            "link": "https://twitter.com/yenerm",
             "name": "Twitter"
           },
           {
             "icon": "website",
-            "link": "http://o.zasadnyy.com/",
+            "link": "http://www.devchronicles.com/",
             "name": "Blog"
           }
         ],
-        "title": "Website and sponsors"
+        "title": "Team DevFest"
       },
-      {
-        "name": "Sunil Tiptur",
-        "photoUrl": "/images/people/vitaliy_zasadnyy.jpg",
+      {  
+        "name": "Jessica Earley",
+        "photoUrl": "/images/people/murat.jpg",
         "socials": [
           {
-            "icon": "linkedin",
-            "link": "https://www.linkedin.com/in/zasadnyy",
-            "name": "Linkedin"
+            "icon": "gplus",
+            "link": "https://plus.google.com/+MuratYener",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/murat.yener",
+            "name": "Facebook"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/zasadnyy",
+            "link": "https://twitter.com/yenerm",
             "name": "Twitter"
           },
           {
             "icon": "website",
-            "link": "http://v.zasadnyy.com/",
+            "link": "http://www.devchronicles.com/",
             "name": "Blog"
           }
         ],
-        "title": "Speakers"
+        "title": "Team DevFest"
+      },
+      {  
+        "name": "David Silva",
+        "photoUrl": "/images/people/murat.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+MuratYener",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/murat.yener",
+            "name": "Facebook"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/yenerm",
+            "name": "Twitter"
+          },
+          {
+            "icon": "website",
+            "link": "http://www.devchronicles.com/",
+            "name": "Blog"
+          }
+        ],
+        "title": "Team DevFest"
       }
-      
     ]
   }
 ]
+   
+      
+
