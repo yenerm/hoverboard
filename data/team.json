@@ -81,29 +81,34 @@
       },
       {  
         "name": "Jessica Earley",
-        "photoUrl": "/images/people/murat.jpg",
+        "photoUrl": "https://chatasweetie.files.wordpress.com/2015/10/jessicaearleycropped.jpg",
         "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+MuratYener",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/murat.yener",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/yenerm",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://www.devchronicles.com/",
-            "name": "Blog"
-          }
-        ],
+         {
+           "icon": "gplus",
+           "link": "https://plus.google.com/+JessicaEarleyChatasweetie",
+           "name": "Google+"
+         },
+         {
+           "icon": "facebook",
+           "link": "https://www.facebook.com/jessica.d.earley",
+           "name": "Facebook"
+         },
+         {
+           "icon": "twitter",
+           "link": "https://twitter.com/chatasweetie",
+           "name": "Twitter"
+         },
+         {
+           "icon": "website",
+           "link": "https://chatasweetie.com/",
+           "name": "Blog"
+         },
+         {
+           "icon": "website",
+           "link": "https://www.youtube.com/channel/UCmAIHsNUyAzJ6FQMdU5jdRw",
+           "name": "DevelopHerDevelopHim"
+         },
+       ],
         "title": "Team DevFest"
       },
       {  
