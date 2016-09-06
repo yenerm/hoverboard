@@ -176,8 +176,7 @@
                data="{{routeData}}"></app-route>
 
     <div class="container speakers-container">
-    <h1>To Be Announced very soon!!</h1>
-      <!-- <template is="dom-repeat" items="[[_toArray(speakers)]]" as="speaker" on-dom-change="_updateCascadedNodes">
+      <template is="dom-repeat" items="[[_toArray(speakers)]]" as="speaker" on-dom-change="_updateCascadedNodes">
         <div class="speaker" cascaded>
           <paper-material class="card">
             <a href$="/speakers/[[speaker.id]]/" class="header">
@@ -217,7 +216,7 @@
               </template>
             </div>
           </paper-material>
-        </div> -->
+        </div>
       </template>
     </div>
     <footer-block app="{{app}}" cascaded></footer-block>
