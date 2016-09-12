@@ -2,31 +2,30 @@
   {
     "title": "Core Team",
     "members": [
-
       {
         "name": "James Cha",
-        "photoUrl": "/images/people/murat.jpg",
+        "photoUrl": "/images/people/james_cha.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+MuratYener",
+            "link": "https://plus.google.com/+JamesCha",
             "name": "Google+"
           },
           {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/murat.yener",
-            "name": "Facebook"
-          },
-          {
             "icon": "twitter",
-            "link": "https://twitter.com/yenerm",
+            "link": "https://twitter.com/thejamescha",
             "name": "Twitter"
           },
           {
-            "icon": "website",
-            "link": "http://www.devchronicles.com/",
-            "name": "Blog"
-          }
+           "icon": "website",
+           "link": "https://www.thejamescha.com/",
+           "name": "Blog"
+         },
+         {
+           "icon": "website",
+           "link": "https://www.youtube.com/channel/UCmAIHsNUyAzJ6FQMdU5jdRw",
+           "name": "DevelopHerDevelopHim"
+         }
         ],
         "title": "Team DevFest"
       },
@@ -107,34 +106,15 @@
            "icon": "website",
            "link": "https://www.youtube.com/channel/UCmAIHsNUyAzJ6FQMdU5jdRw",
            "name": "DevelopHerDevelopHim"
-         },
+         }
        ],
         "title": "Team DevFest"
       },
       {  
         "name": "David Silva",
-        "photoUrl": "/images/people/murat.jpg",
+        "photoUrl": "/images/people/android.png",
         "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+MuratYener",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/murat.yener",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/yenerm",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://www.devchronicles.com/",
-            "name": "Blog"
-          }
+        
         ],
         "title": "Team DevFest"
       }

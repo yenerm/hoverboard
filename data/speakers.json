@@ -7,7 +7,7 @@
         "company": "Google",
         "companyLogo": "/images/logos/google.svg",
         "country": "CA, USA",
-        "photoUrl": "/images/people/chet.webp",
+        "photoUrl": "/images/people/chet.jpg",
         "shortBio": "Chet Haase is the lead of the Android UI Toolkit team at Google, where he works on graphics, animation, widgets, and...",
         "bio": "Chet Haase is the lead of the Android UI Toolkit team at Google, where he works on graphics, animation, widgets, and anything else that puts pixels on the screen. He's been known to write and perform comedy and also to speak at developer conferences like this one.",
         "tags": [
@@ -30,7 +30,7 @@
         "company": "Google",
         "companyLogo": "/images/logos/google.svg",
         "country": "CA, USA",
-        "photoUrl": "/images/people/romain.webp",
+        "photoUrl": "/images/people/romain.jpg",
         "shortBio": "Romain Guy works on Android graphics and UI technologies at Google. ",
         "bio": "Romain Guy works on Android graphics and UI technologies at Google.",
         "tags": [
@@ -53,7 +53,7 @@
         "company": "Google",
         "companyLogo": "/images/logos/google.svg",
         "country": "CA, USA",
-        "photoUrl": "/images/people/sandeep.webp",
+        "photoUrl": "/images/people/sandeep.jpg",
         "shortBio": "Sandeep started coding and creating websites when he was 12 and hasn't stopped. He is passionate...",
         "bio": "Sandeep started coding and creating websites when he was 12 and hasn't stopped. He is passionate about building easy-to-use products people love. Before Google, he founded an IoT startup in agriculture and developed educational HTML5 games. At Google, Sandeep's goal is to make cloud easy and help developers create the next big thing. Sandeep loves video games, making music, and martial arts, and has Bachelors in Marketing and Computer Science.",
         "tags": [
@@ -76,7 +76,7 @@
         "company": "Google",
         "companyLogo": "/images/logos/google.svg",
         "country": "CA, USA",
-        "photoUrl": "/images/people/terry.webp",
+        "photoUrl": "/images/people/terry.jpg",
         "shortBio": "Terry Ryan is a Developer Advocate for the Google Cloud Platform team. He has 15 years...",
         "bio": "Terry Ryan is a Developer Advocate for the Google Cloud Platform team. He has 15 years of experience working with the web - both front end and back. Before working for technology shops like Google and Adobe he worked in roles that combined development with system administration at the Wharton School of Business.",
         "tags": [
@@ -99,7 +99,7 @@
         "company": "Stickman Ventures, Inc",
         "companyLogo": "/images/logos/stickman.svg",
         "country": "CA, USA",
-        "photoUrl": "/images/people/justin.webp",
+        "photoUrl": "/images/people/justin.jpg",
         "shortBio": "I build and hack on just about anything, Stickman Ventures, Inc. Co-organizer of the GDG Oakdale, a GDE, Oakdale OpenMesh, and...",
         "bio": "I build and hack on just about anything, Stickman Ventures, Inc. Co-organizer of the GDG Oakdale, a GDE, Oakdale OpenMesh, and his three daughters. 18+ years development experience and author of the upcoming book Developing a Google Glass Edge, he is constantly building software, sensors, and hacking on toys.",
         "tags": [

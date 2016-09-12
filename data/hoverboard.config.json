@@ -110,12 +110,7 @@
       "links": [
         {
           "text": "partnership-proposition",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
-        {
-          "text": "media-kit",
-          "url": "http://bit.ly/df16-media",
+          "url": "https://docs.google.com/document/d/1S7L22IEpcnsxSJ43eljbj4CHfRB--QFOsd9PtaQTfBc/edit?usp=sharing",
           "newTab": true
         }
       ]
@@ -124,8 +119,8 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "devfest@devfestsf.com",
+        "url": "mailto:devfest@devfestsf.com"
       }
     ]
   },
@@ -180,18 +175,8 @@
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
-    },
-    {
-      "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "116364155595291080470",
+      "url": "https://plus.google.com/116364155595291080470"
     }
   ],
   "tweetsSource": "/data/tweets.json",
