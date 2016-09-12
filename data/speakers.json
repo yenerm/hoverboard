@@ -15,7 +15,6 @@
         ],
         "badges": [
             {
-                "name": "Googler"
             }
         ],
         "socials": [
@@ -38,7 +37,6 @@
         ],
         "badges": [
             {
-                "name": "Googler"
             }
         ],
         "socials": [
@@ -61,7 +59,6 @@
         ],
         "badges": [
             {
-                "name": "Googler"
             }
         ],
         "socials": [
@@ -84,7 +81,6 @@
         ],
         "badges": [
             {
-                "name": "Googler"
             }
         ],
         "socials": [
@@ -93,11 +89,11 @@
     },
     "5": {
         "id": 5,
-        "featured": "false",
+        "featured": "true",
         "name": "Justin Ribeiro",
-        "title": "Developer Advocate",
+        "title": "Google Developer Expert",
         "company": "Stickman Ventures, Inc",
-        "companyLogo": "/images/logos/stickman.svg",
+        "companyLogo": "/images/logos/sv-green.svg",
         "country": "CA, USA",
         "photoUrl": "/images/people/justin.jpg",
         "shortBio": "I build and hack on just about anything, Stickman Ventures, Inc. Co-organizer of the GDG Oakdale, a GDE, Oakdale OpenMesh, and...",
@@ -107,7 +103,50 @@
         ],
         "badges": [
             {
-                "name": "GDE"
+            }
+        ],
+        "socials": [
+
+        ]
+    },
+     "6": {
+        "id": 6,
+        "featured": "true",
+        "name": "Lauren Long",
+        "title": "Firebase Engineer",
+        "company": "Google",
+        "companyLogo": "/images/logos/google.svg",
+        "country": "CA, USA",
+        "photoUrl": "/images/people/lauren.jpeg",
+        "shortBio": "Full-stack web developer and startup geek",
+        "bio": "Lauren Long is a full-stack web developer and startup geek. She is currently an engineer on the Firebase team at Google San Francisco. Lauren co-founded Boxit, a storage-on-demand company that operates in Toronto, Canada. She also was the first Product Manager at Nymi - the maker of the world’s first wristband that knows who you are based on your heartbeat. She enjoys writing and speaking about web development and the ups and downs of running a startup. She loves to travel, and her adventures have taken her to Germany for medical imaging research and to the Arctic to lead children's literacy camps.",
+        "tags": [
+            "Firebase"
+        ],
+        "badges": [
+            {
+            }
+        ],
+        "socials": [
+
+        ]
+    },
+     "7": {
+        "id": 7,
+        "featured": "true",
+        "name": "Martin Omander",
+        "title": "Developer Relations Program Manager",
+        "company": "Google",
+        "companyLogo": "/images/logos/google.svg",
+        "country": "CA, USA",
+        "photoUrl": "/images/people/martin.jpg",
+        "shortBio": "The Legend",
+        "bio": "Martin Omander, the man, the myth, the legend, all the way from the Google HQ in Silicon Valley Developer Relations Team.",
+        "tags": [
+            "Developer Relations"
+        ],
+        "badges": [
+            {
             }
         ],
         "socials": [
