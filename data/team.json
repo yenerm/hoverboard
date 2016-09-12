@@ -30,6 +30,23 @@
         "title": "Team DevFest"
       },
       {  
+        "name": "Selin Sargut",
+        "photoUrl": "https://scontent.fsnc1-2.fna.fbcdn.net/v/t1.0-9/1379784_10153340646690554_380607742_n.jpg?oh=c644e37b05f42e25a209e2e6f8f71646&oe=5885986F",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/111120131013976545319",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/ssargut",
+            "name": "Facebook"
+          }
+        ],
+        "title": "Designs"
+      },
+      {  
         "name": "Murat Yener",
         "photoUrl": "/images/people/murat.jpg",
         "socials": [
