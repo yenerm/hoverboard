@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "devfest-sf-9588c"
+    "default": "devfest-sf-9588c",
+    "main": "devfest-sf-9588c"
   }
 }
