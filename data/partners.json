@@ -9,14 +9,38 @@
       }
     ]
   },
-
+{
+    "title": "gold-partner",
+    "logos": [
+      {
+        "name": "Hackbright",
+        "url": "https://hackbrightacademy.com/",
+        "logoUrl": "../images/logos/hackbright.jpg"
+      }
+    ]
+  },
   {
     "title": "silver-partner",
+    "logos": [
+      {
+        "name": "Clover",
+        "url": "http://www.clover.com",
+        "logoUrl": "../images/logos/clover.png"
+      }
+    ]
+  },
+  {
+    "title": "general-partner",
     "logos": [
       {
         "name": "Vaadin",
         "url": "http://www.vaadin.com",
         "logoUrl": "../images/logos/vaadin.png"
+      },
+      {
+        "name": "DevelopHerDevelopHim",
+        "url": "https://www.youtube.com/channel/UCmAIHsNUyAzJ6FQMdU5jdRw",
+        "logoUrl": "../images/logos/DevelopHerHim3.jpg"
       }
     ]
   },
