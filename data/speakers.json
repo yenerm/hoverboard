@@ -99,11 +99,10 @@
         "shortBio": "I build and hack on just about anything, Stickman Ventures, Inc. Co-organizer of the GDG Oakdale, a GDE, Oakdale OpenMesh, and...",
         "bio": "I build and hack on just about anything, Stickman Ventures, Inc. Co-organizer of the GDG Oakdale, a GDE, Oakdale OpenMesh, and his three daughters. 18+ years development experience and author of the upcoming book Developing a Google Glass Edge, he is constantly building software, sensors, and hacking on toys.",
         "tags": [
-            ""
+            "Android, IOT"
         ],
         "badges": [
-            {
-            }
+            "GDE"
         ],
         "socials": [
 
@@ -167,6 +166,7 @@
         "shortBio": "",
         "bio": "",
         "tags": [
+            "Developer Relations"
         ],
         "badges": [
             {
@@ -188,12 +188,12 @@
         "shortBio": "Vikram Tiwari is full stack developer focused on building scalable web platforms for high availability...",
         "bio": "Vikram Tiwari is full stack developer focused on building scalable web platforms for high availability, resilience and security. He is currently building solutions to simplify multi-channel advertising space at Omni Labs, Inc. in San Francisco, California. In past he has built a Real-Time Bidder which served over ~12Bn queries each day. Outside of work, he has a passion for contributing to open source community as one of the core contributors in MEAN Stack framework, among other web and cloud projects. He loves working with startups and developers in helping them navigate through challenges and succeed in their journey.",
         "tags": [
-            
+            "Web"
         ],
         "badges": [
-            {
+            
                 "GDE"
-            }
+            
         ],
         "socials": [
             {
@@ -215,7 +215,7 @@
         "shortBio": "Chris currently heads up the RealScout engineering team with a focus on continuous learning and action...",
         "bio": "Chris currently heads up the RealScout engineering team with a focus on continuous learning and action, cultivating thought diversity and making a difference in the real estate industry and our software engineering community. Prior to RealScout, he co-founded one of the first civic apps in the country, iSepta.org, was co-founder and CTO of an accelerator-backed startup, and led development at Monetate as an engineering director.",
         "tags": [
-            "Developer Relations"
+            "--"
         ],
         "badges": [
             {
@@ -275,14 +275,15 @@
         "companyLogo": "/images/logos/intel.png",
         "country": "CA, USA",
         "photoUrl": "/images/people/murat.jpg",
-        "shortBio": "urat Yener is a code geek, open source committer, Java Champion and Google Developer Expert on Android, who is working...",
+        "shortBio": "Murat Yener is a code geek, open source committer, Java Champion and Google Developer Expert on Android, who is working...",
         "bio": "Murat Yener is a code geek, open source committer, Java Champion and Google Developer Expert on Android, who is working at Intel as an Android developer. He is the author of Expert Android Studio and Professional Java EE Design Patterns books from Wiley. He has extensive experience with developing Android, Java, web, JavaEE, and OSGi applications, in addition to teaching courses and mentoring. Murat is an  Eclipse committer and one of the initial committers of the Eclipse Libra project. Murat has been a user group leader at GDG Istanbul since 2009, organizing, participating, and speaking at events. He is also a regular speaker at major conferences such as DroidCon, JavaOne and Devoxx.",
         "tags": [
+            "Android, Web"
         ],
         "badges": [
-            {
+            
                 "GDE"
-            }
+            
         ],
         "socials": [
 
@@ -300,7 +301,7 @@
         "shortBio": "Hod is a Developer Advocate for Couchbase, living in Silicon Valley...",
         "bio": "Hod is a Developer Advocate for Couchbase, living in Silicon Valley. He has over two decades of experience as a software engineer and engineering manager. He has worked in a variety of software fields, including computational physics and chemistry, computer and network security, finance, and mobile. Prior to joining Couchbase in 2016, Hod led developer relations for mobile at Samsung. Hod holds a Ph.D. in Chemical Physics from Columbia University.",
         "tags": [
-
+            "Android"
         ],
         "badges": [
             {
@@ -326,7 +327,7 @@
         "shortBio": "June is a genderqueer developer advocate passionate about the open web platform. They love meeting people, talking about...",
         "bio": "June is a genderqueer developer advocate passionate about the open web platform. They love meeting people, talking about their passions, and giving presentations interspersed with bawdy jokes and lavish, mostly true stories. They use they/them pronouns and they can be found @juniperbelmont",
         "tags": [
-
+            "Web"
         ],
         "badges": [
             {
@@ -352,12 +353,12 @@
         "shortBio": "",
         "bio": "",
         "tags": [
-
+            "--"
         ],
         "badges": [
-            {
+            
                 "GDG"
-            }
+            
         ],
         "socials": [
           {
@@ -394,6 +395,7 @@
         "shortBio": "Former schoolteacher, professionally coding for the web since 2006.  I love making things and empowering others to make things they didn't think they could.",
         "bio": "Former schoolteacher, professionally coding for the web since 2006.  I love making things and empowering others to make things they didn't think they could.",
         "tags": [
+            "--"
         ],
         "badges": [
             {
@@ -419,7 +421,7 @@
         "shortBio": "",
         "bio": "",
         "tags": [
-            "Developer Relations"
+            "--"
         ],
         "badges": [
             {
