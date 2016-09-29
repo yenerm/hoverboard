@@ -269,29 +269,6 @@
      "12": {
         "id": 12,
         "featured": "false",
-        "name": "Murat Yener",
-        "title": "Android Geek",
-        "company": "Intel",
-        "companyLogo": "/images/logos/intel.png",
-        "country": "CA, USA",
-        "photoUrl": "/images/people/murat.jpg",
-        "shortBio": "Murat Yener is a code geek, open source committer, Java Champion and Google Developer Expert on Android, who is working...",
-        "bio": "Murat Yener is a code geek, open source committer, Java Champion and Google Developer Expert on Android, who is working at Intel as an Android developer. He is the author of Expert Android Studio and Professional Java EE Design Patterns books from Wiley. He has extensive experience with developing Android, Java, web, JavaEE, and OSGi applications, in addition to teaching courses and mentoring. Murat is an  Eclipse committer and one of the initial committers of the Eclipse Libra project. Murat has been a user group leader at GDG Istanbul since 2009, organizing, participating, and speaking at events. He is also a regular speaker at major conferences such as DroidCon, JavaOne and Devoxx.",
-        "tags": [
-            "Android, Web"
-        ],
-        "badges": [
-            
-                "GDE"
-            
-        ],
-        "socials": [
-
-        ]
-    },
-     "13": {
-        "id": 13,
-        "featured": "false",
         "name": "Hod Greeley",
         "title": "Developer Advocate",
         "company": "Couchbase",
@@ -315,8 +292,8 @@
           }
         ]
     },
-     "14": {
-        "id": 14,
+     "13": {
+        "id": 13,
         "featured": "false",
         "name": "Juniper Belmont",
         "title": "Developer Advocate",
@@ -339,6 +316,29 @@
             "link": "https://twitter.com/juniperbelmont ",
             "name": "Twitter"
           }
+        ]
+    },
+     "14": {
+        "id": 14,
+        "featured": "false",
+        "name": "Murat Yener",
+        "title": "Android Geek",
+        "company": "Intel",
+        "companyLogo": "/images/logos/intel.png",
+        "country": "CA, USA",
+        "photoUrl": "/images/people/murat.jpg",
+        "shortBio": "Murat Yener is a code geek, open source committer, Java Champion and Google Developer Expert on Android, who is working...",
+        "bio": "Murat Yener is a code geek, open source committer, Java Champion and Google Developer Expert on Android, who is working at Intel as an Android developer. He is the author of Expert Android Studio and Professional Java EE Design Patterns books from Wiley. He has extensive experience with developing Android, Java, web, JavaEE, and OSGi applications, in addition to teaching courses and mentoring. Murat is an  Eclipse committer and one of the initial committers of the Eclipse Libra project. Murat has been a user group leader at GDG Istanbul since 2009, organizing, participating, and speaking at events. He is also a regular speaker at major conferences such as DroidCon, JavaOne and Devoxx.",
+        "tags": [
+            "Android, Web"
+        ],
+        "badges": [
+            
+                "GDE"
+            
+        ],
+        "socials": [
+
         ]
     },
      "15": {
@@ -427,7 +427,6 @@
             {
             }
         ],
-
         "socials": [
          {
            "icon": "gplus",
