@@ -89,7 +89,7 @@
     },
     "5": {
         "id": 5,
-        "featured": "true",
+        "featured": "false",
         "name": "Justin Ribeiro",
         "title": "Google Developer Expert",
         "company": "Stickman Ventures, Inc",
@@ -152,5 +152,306 @@
         "socials": [
 
         ]
+    }
+
+    ,
+     "8": {
+        "id": 8,
+        "featured": "false",
+        "name": "Liz Padilla",
+        "title": "",
+        "company": "Google",
+        "companyLogo": "/images/logos/google.svg",
+        "country": "CA, USA",
+        "photoUrl": "/images/people/liz.jpg",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+        ],
+        "badges": [
+            {
+            }
+        ],
+        "socials": [
+
+        ]
+    },
+     "9": {
+        "id": 9,
+        "featured": "false",
+        "name": "Vikram Tiwari",
+        "title": "Full Stack Developer",
+        "company": "Omni, Inc.",
+        "companyLogo": "/images/logos/omni.jpg",
+        "country": "CA, USA",
+        "photoUrl": "/images/people/vikram.jpg",
+        "shortBio": "Vikram Tiwari is full stack developer focused on building scalable web platforms for high availability...",
+        "bio": "Vikram Tiwari is full stack developer focused on building scalable web platforms for high availability, resilience and security. He is currently building solutions to simplify multi-channel advertising space at Omni Labs, Inc. in San Francisco, California. In past he has built a Real-Time Bidder which served over ~12Bn queries each day. Outside of work, he has a passion for contributing to open source community as one of the core contributors in MEAN Stack framework, among other web and cloud projects. He loves working with startups and developers in helping them navigate through challenges and succeed in their journey.",
+        "tags": [
+            
+        ],
+        "badges": [
+            {
+                "GDE"
+            }
+        ],
+        "socials": [
+            {
+            "icon": "twitter",
+            "link": "https://twitter.com/Vikram_Tiwari",
+            "name": "Twitter"
+          }
+        ]
+    },
+     "10": {
+        "id": 10,
+        "featured": "false",
+        "name": "Chris Conley",
+        "title": "Director of Engineering",
+        "company": "RealScout",
+        "companyLogo": "/images/logos/realstout.jpg",
+        "country": "CA, USA",
+        "photoUrl": "/images/people/chris.jpg",
+        "shortBio": "Chris currently heads up the RealScout engineering team with a focus on continuous learning and action...",
+        "bio": "Chris currently heads up the RealScout engineering team with a focus on continuous learning and action, cultivating thought diversity and making a difference in the real estate industry and our software engineering community. Prior to RealScout, he co-founded one of the first civic apps in the country, iSepta.org, was co-founder and CTO of an accelerator-backed startup, and led development at Monetate as an engineering director.",
+        "tags": [
+            "Developer Relations"
+        ],
+        "badges": [
+            {
+            }
+        ],
+        "socials": [
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/chrisconley",
+            "name": "Facebook"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/chrisconley",
+            "name": "Twitter"
+          },
+          {
+           "icon": "website",
+           "link": "http://chrisconley.io/",
+           "name": "Blog"
+         },
+         {
+           "icon": "website",
+           "link": "https://www.linkedin.com/in/chrismconley",
+           "name": "LinkedIn"
+         }
+        ]
+    },
+     "11": {
+        "id":11,
+        "featured": "false",
+        "name": "Claire Bendersky",
+        "title": "",
+        "company": "",
+        "companyLogo": "/images/logos/claire.svg",
+        "country": "CA, USA",
+        "photoUrl": "/images/people/claire.jpg",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+
+        ],
+        "badges": [
+            {
+            }
+        ],
+        "socials": [
+
+        ]
+    },
+     "12": {
+        "id": 12,
+        "featured": "false",
+        "name": "Murat Yener",
+        "title": "Android Geek",
+        "company": "Intel",
+        "companyLogo": "/images/logos/intel.png",
+        "country": "CA, USA",
+        "photoUrl": "/images/people/murat.jpg",
+        "shortBio": "urat Yener is a code geek, open source committer, Java Champion and Google Developer Expert on Android, who is working...",
+        "bio": "Murat Yener is a code geek, open source committer, Java Champion and Google Developer Expert on Android, who is working at Intel as an Android developer. He is the author of Expert Android Studio and Professional Java EE Design Patterns books from Wiley. He has extensive experience with developing Android, Java, web, JavaEE, and OSGi applications, in addition to teaching courses and mentoring. Murat is an  Eclipse committer and one of the initial committers of the Eclipse Libra project. Murat has been a user group leader at GDG Istanbul since 2009, organizing, participating, and speaking at events. He is also a regular speaker at major conferences such as DroidCon, JavaOne and Devoxx.",
+        "tags": [
+        ],
+        "badges": [
+            {
+                "GDE"
+            }
+        ],
+        "socials": [
+
+        ]
+    },
+     "13": {
+        "id": 13,
+        "featured": "false",
+        "name": "Hod Greeley",
+        "title": "Developer Advocate",
+        "company": "Couchbase",
+        "companyLogo": "/images/logos/couchbase.gif",
+        "country": "CA, USA",
+        "photoUrl": "/images/people/hod.jpg",
+        "shortBio": "Hod is a Developer Advocate for Couchbase, living in Silicon Valley...",
+        "bio": "Hod is a Developer Advocate for Couchbase, living in Silicon Valley. He has over two decades of experience as a software engineer and engineering manager. He has worked in a variety of software fields, including computational physics and chemistry, computer and network security, finance, and mobile. Prior to joining Couchbase in 2016, Hod led developer relations for mobile at Samsung. Hod holds a Ph.D. in Chemical Physics from Columbia University.",
+        "tags": [
+
+        ],
+        "badges": [
+            {
+            }
+        ],
+        "socials": [
+         {
+            "icon": "twitter",
+            "link": "https://twitter.com/HodGreeley",
+            "name": "Twitter"
+          }
+        ]
+    },
+     "14": {
+        "id": 14,
+        "featured": "false",
+        "name": "Juniper Belmont",
+        "title": "Developer Advocate",
+        "company": "Vaadin",
+        "companyLogo": "/images/logos/vaadin.png",
+        "country": "CA, USA",
+        "photoUrl": "/images/people/june.jpg",
+        "shortBio": "June is a genderqueer developer advocate passionate about the open web platform. They love meeting people, talking about...",
+        "bio": "June is a genderqueer developer advocate passionate about the open web platform. They love meeting people, talking about their passions, and giving presentations interspersed with bawdy jokes and lavish, mostly true stories. They use they/them pronouns and they can be found @juniperbelmont",
+        "tags": [
+
+        ],
+        "badges": [
+            {
+            }
+        ],
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/juniperbelmont ",
+            "name": "Twitter"
+          }
+        ]
+    },
+     "15": {
+        "id": 15,
+        "featured": "false",
+        "name": "James Cha",
+        "title": "",
+        "company": "Clover",
+        "companyLogo": "/images/logos/clover.png",
+        "country": "CA, USA",
+        "photoUrl": "/images/people/james_cha.jpg",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+
+        ],
+        "badges": [
+            {
+                "GDG"
+            }
+        ],
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+JamesCha",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/thejamescha",
+            "name": "Twitter"
+          },
+          {
+           "icon": "website",
+           "link": "https://www.thejamescha.com/",
+           "name": "Blog"
+         },
+         {
+           "icon": "website",
+           "link": "https://www.youtube.com/channel/UCmAIHsNUyAzJ6FQMdU5jdRw",
+           "name": "DevelopHerDevelopHim"
+         }
+        ]
+    },
+     "16": {
+        "id": 16,
+        "featured": "false",
+        "name": "Jessica Parsons",
+        "title": "Web Development Instructor",
+        "company": "JobTrain",
+        "companyLogo": "/images/logos/jobtrain.jpg",
+        "country": "CA, USA",
+        "photoUrl": "/images/people/JessicaParsonsPic.jpg",
+        "shortBio": "Former schoolteacher, professionally coding for the web since 2006.  I love making things and empowering others to make things they didn't think they could.",
+        "bio": "Former schoolteacher, professionally coding for the web since 2006.  I love making things and empowering others to make things they didn't think they could.",
+        "tags": [
+        ],
+        "badges": [
+            {
+            }
+        ],
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/verythorough",
+            "name": "Twitter"
+          }
+        ]
+    },
+     "17": {
+        "id": 17,
+        "featured": "false",
+        "name": "Jessica Earley",
+        "title": "",
+        "company": "",
+        "companyLogo": "/images/logos/",
+        "country": "CA, USA",
+        "photoUrl": "/images/people/jessica.jpg",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Developer Relations"
+        ],
+        "badges": [
+            {
+            }
+        ],
+
+        "socials": [
+         {
+           "icon": "gplus",
+           "link": "https://plus.google.com/+JessicaEarleyChatasweetie",
+           "name": "Google+"
+         },
+         {
+           "icon": "facebook",
+           "link": "https://www.facebook.com/jessica.d.earley",
+           "name": "Facebook"
+         },
+         {
+           "icon": "twitter",
+           "link": "https://twitter.com/chatasweetie",
+           "name": "Twitter"
+         },
+         {
+           "icon": "website",
+           "link": "https://chatasweetie.com/",
+           "name": "Blog"
+         },
+         {
+           "icon": "website",
+           "link": "https://www.youtube.com/channel/UCmAIHsNUyAzJ6FQMdU5jdRw",
+           "name": "DevelopHerDevelopHim"
+         }
+       ]
     }
 }
