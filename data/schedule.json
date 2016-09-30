@@ -2,17 +2,72 @@
     "date": "2016-10-08",
     "dateReadable": "October 8",
     "tracks": [{
-        "title": "Expo hall"
+        "title": "Main Room"
     }, {
-        "title": "Conference hall"
+        "title": "Beale"
     }, {
-        "title": "Workshops hall"
+        "title": "Howard"
     }],
     "timeslots": [{
         "startTime": "09:00",
+        "endTime": "09:20",
+        "sessions": [
+            [99]
+        ]
+    },{
+        "startTime": "09:00",
         "endTime": "10:00",
         "sessions": [
-            [139]
+            [100]
+        ]
+    },
+
+
+        {
+        "startTime": "10:10",
+        "endTime": "11:00",
+        "sessions": [
+            [101],
+            [201],
+            [301]
+        ]
+    }, {
+        "startTime": "11:10",
+        "endTime": "12:00",
+        "sessions": [
+            [102],
+            [202],
+            [302]
+        ]
+    }, {
+        "startTime": "1:10",
+        "endTime": "2:00",
+        "sessions": [
+            [103],
+            [203],
+            [303]
+        ]
+    }, {
+        "startTime": "2:10",
+        "endTime": "3:00",
+        "sessions": [
+            [104],
+            [204],
+            [304]
+        ]
+    }, {
+        "startTime": "3:10",
+        "endTime": "4:00",
+        "sessions": [
+            [105],
+            [205],
+            [305]
+        ]
+    }, {
+        "startTime": "4:10",
+        "endTime": "4:30",
+        "sessions": [
+            [137]
         ]
     }]
 }]

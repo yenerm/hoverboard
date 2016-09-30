@@ -1,22 +1,154 @@
 {
-    "140": {
-        "id": 140,
-        "title": "TBD",
-        "description": "TBD",
+    "98": {
+        "id": 98,
+        "title": "Doors Open",
+        "description": "",
         "language": "English"
-    },
-    "139": {
-        "id": 139,
-        "title": "Keynote",
+    },"99": {
+        "id": 99,
+        "title": "Breakfast",
         "description": "",
         "language": "English"
     },
-    "138": {
-        "id": 138,
-        "title": "Conference closing and contest winners announcements",
-        "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
-        "image": "/images/backgrounds/closing.jpg"
+    "100": {
+        "id": 100,
+        "title": "Welcome + Keynote",
+        "description": "",
+        "language": "English"
     },
+    "101": {
+        "id": 101,
+        "title": "What is new in aNdroid",
+        "description": "",
+        "speakers": [
+            1,2
+        ],
+        "language": "English"
+    },
+    "201": {
+        "id": 201,
+        "title": "Prototyping to Production - using NodeJS and Google Cloud",
+        "description": "Startups are hard. Whether it's prototyping stage where you have to maintain your costs low, or production where you need a plethora of tools at your disposal to be a reliable service. We will together explore how NodeJS on Google Cloud Platform can make your life simpler. We will be starting with a small prototyping application and run a sample app on production utilizing various features of Google Cloud.",
+        "speakers": [
+            9
+        ],
+        "language": "English"
+    },
+    "301": {
+        "id": 301,
+        "title": "Simplify Your Life with Couchbase Mobile",
+        "description": "Couchbase Mobile is not only easy to use, but won’t leave you hanging.  Come for the simplicity.  Stay for the flexibility.This isn’t theory for hardcore database jockeys.  Join us for an in-depth, practical exploration of how NoSQL/Couchbase Mobile can simplify your mobile development.  We’ll drill down on two key reasons you’ll want to switch: ease-of-use and flexibility.  You may never write a SQL statement again.",
+        "speakers": [
+            12
+        ],
+        "language": "English"
+    },   
+    "102": {
+        "id": 102,
+        "title": "TBD",
+        "description": "",
+        "speakers": [
+            4
+        ],
+        "language": "English"
+    },
+    "202": {
+        "id": 202,
+        "title": "Why Pursuing Success Creates Failure (and Other Engineering Lessons From the Game of Hangman)",
+        "description": "Software engineers are often inundated with the latest mantras: fail fast, agile development, customer development, the lean startup, minimum viable product, pair programming, acceptance testing, continuous improvement! What do these actually mean? Why do they work for their proponents? Will they work for you?With the seemingly simple, yet fun and complex game of hangman, we’ll connect the dots between all of these ideas by teasing out simple principles around information gain, failure, success and diversity from the game.We’ll then explore how we, as software engineers, can apply those principles to write better code, work in teams more effectively and deliver software that provides long term value.With the seemingly simple, yet fun and complex game of hangman, we’ll connect the dots between all of these religions by teasing out simple principles around information gain, failure, success and diversity from the game.We’ll then explore how we, as software engineers, can apply those principles to write better code, work in teams more effectively and deliver software that provides long term value.",
+        "speakers": [
+            10
+        ],
+        "language": "English"
+    },
+    "302": {
+        "id": 302,
+        "title": "Why (not) build Progressive Web Apps?",
+        "description": "Progressive Web Apps (PWAs) are the new big thing in web development, but it’s a mistake to simply endorse or reject them. More than a set of technologies, PWAs are about reframing how we build apps for the web and mobile. They’re about building speed and security and responsiveness right into the app instead of relying on fast devices and connections. They’re about making web apps do everything native apps can do without rewriting your entire codebase for different platforms.In this talk you’ll learn how to build progressive web apps and decide why you might or might not want to.",
+        "speakers": [
+            13
+        ],
+        "language": "English"
+    },  
+    "103": {
+        "id": 103,
+        "title": "TBD",
+        "description": "",
+        "speakers": [
+            7,8
+        ],
+        "language": "English"
+    },
+    "203": {
+        "id": 203,
+        "title": "TBD",
+        "description": "",
+        "speakers": [
+            11
+        ],
+        "language": "English"
+    },
+    "303": {
+        "id": 303,
+        "title": "TBD",
+        "description": "",
+        "speakers": [
+            15,16
+        ],
+        "language": "English"
+    },  
+    "104": {
+        "id": 104,
+        "title": "TBD",
+        "description": "",
+        "speakers": [
+            6
+        ],
+        "language": "English"
+    },
+    "204": {
+        "id": 204,
+        "title": "",
+        "description": "",
+        "speakers": [
+            5
+        ],
+        "language": "English"
+    },
+    "304": {
+        "id": 304,
+        "title": "TBD",
+        "description": "",
+        "speakers": [
+            15,17
+        ],
+        "language": "English"
+    },  
+    "105": {
+        "id": 105,
+        "title": "TBD",
+        "description": "",
+        "speakers": [
+            3
+        ],
+        "language": "English"
+    },
+    "205": {
+        "id": 205,
+        "title": "Android and Seven Dwarfs, Murat Yener",
+        "description": "Android is a great OS and it's Java based programming environment has offered an easy learning curve, great adaptation but also brought its own pitfalls and problems. The httpclient shipped with android is buggy and outdated, Java's programming model does not encourage developers to use separate threads for non-ui related tasks, use of anonymous inner classes for listeners create a burden and ugly code and of course this list goes on. This talk will focus on seven great open source libraries which do fix Android's programming model, the way jquery fixes javascript. The libraries will be covered with example code, advantages, disadvantages, internals and when to use them.",
+        "speakers": [
+            14
+        ],
+        "language": "English"
+    },
+    "305": {
+        "id": 305,
+        "title": "",
+        "description": "",
+        "language": "English"
+    },   
+
     "137": {
         "id": 137,
         "title": "Afterparty & Networking",
