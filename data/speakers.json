@@ -99,7 +99,7 @@
         "shortBio": "I build and hack on just about anything, Stickman Ventures, Inc. Co-organizer of the GDG Oakdale, a GDE, Oakdale OpenMesh, and...",
         "bio": "I build and hack on just about anything, Stickman Ventures, Inc. Co-organizer of the GDG Oakdale, a GDE, Oakdale OpenMesh, and his three daughters. 18+ years development experience and author of the upcoming book Developing a Google Glass Edge, he is constantly building software, sensors, and hacking on toys.",
         "tags": [
-            "Android, IOT"
+            "Android, IOT, Polymer"
         ],
         "badges": [
             "GDE"
@@ -157,16 +157,16 @@
      "8": {
         "id": 8,
         "featured": "false",
-        "name": "Liz Padilla",
-        "title": "",
+        "name": "Elizabeth Padilla",
+        "title": "Program Manager for Privacy and Security",
         "company": "Google",
         "companyLogo": "/images/logos/google.svg",
         "country": "CA, USA",
-        "photoUrl": "/images/people/liz.jpg",
-        "shortBio": "",
-        "bio": "",
+        "photoUrl": "/images/people/liz_revised.jpg",
+        "shortBio": "Program Manager for Privacy and Security",
+        "bio": "Program Manager for Privacy and Security",
         "tags": [
-            "Developer Relations"
+            "Privacy and Security"
         ],
         "badges": [
             {
@@ -191,9 +191,9 @@
             "Web"
         ],
         "badges": [
-            
+
                 "GDE"
-            
+
         ],
         "socials": [
             {
@@ -333,9 +333,9 @@
             "Android, Web"
         ],
         "badges": [
-            
+
                 "GDE"
-            
+
         ],
         "socials": [
 
@@ -356,9 +356,9 @@
             "--"
         ],
         "badges": [
-            
+
                 "GDG"
-            
+
         ],
         "socials": [
           {

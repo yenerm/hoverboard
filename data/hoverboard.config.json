@@ -134,7 +134,7 @@
       },
       {
         "name": "lazy-ticket",
-        "price": 25,
+        "price": 30,
         "currency": "$",
         "starts": "lazy-ticket-starts",
         "ends": "lazy-ticket-ends",
