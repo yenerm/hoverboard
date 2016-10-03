@@ -9,13 +9,19 @@
         "title": "Howard"
     }],
     "timeslots": [{
+        "startTime": "08:30",
+        "endTime": "09:00",
+        "sessions": [
+            [98]
+        ]
+    },{
         "startTime": "09:00",
         "endTime": "09:20",
         "sessions": [
             [99]
         ]
     },{
-        "startTime": "09:00",
+        "startTime": "09:30",
         "endTime": "10:00",
         "sessions": [
             [100]

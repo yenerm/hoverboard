@@ -19,6 +19,7 @@
 <dom-module id="schedule-page">
 
   <template>
+
     <style include="shared-styles">
       :host {
         display: block;
@@ -45,7 +46,9 @@
         schedule="[[schedule]]"
         selected-day="[[app.selectedDay]]"
         filters="{{filters}}"
-      ></schedule-subnav>
+      >
+        
+      </schedule-subnav>
 
       <neon-animated-pages selected="[[app.selectedDay]]" attr-for-selected="name">
         <template is="dom-repeat" items="[[schedule]]" as="day">

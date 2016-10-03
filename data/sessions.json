@@ -14,12 +14,15 @@
         "id": 100,
         "title": "Welcome + Keynote",
         "description": "",
+        "speakers": [
+            20
+        ],
         "language": "English"
     },
     "101": {
         "id": 101,
-        "title": "What is new in aNdroid",
-        "description": "",
+        "title": "U and I",
+        "description": "Romain and Chet talk about some of their passions in user interfaces: animations and color",
         "speakers": [
             1,2
         ],
@@ -36,7 +39,7 @@
     },
     "301": {
         "id": 301,
-        "title": "Simplify Your Life with Couchbase Mobile",
+        "title": "Hands on with the Couchbase Mobile Stack",
         "description": "Couchbase Mobile is not only easy to use, but won’t leave you hanging.  Come for the simplicity.  Stay for the flexibility.This isn’t theory for hardcore database jockeys.  Join us for an in-depth, practical exploration of how NoSQL/Couchbase Mobile can simplify your mobile development.  We’ll drill down on two key reasons you’ll want to switch: ease-of-use and flexibility.  You may never write a SQL statement again.",
         "speakers": [
             12
@@ -45,7 +48,7 @@
     },   
     "102": {
         "id": 102,
-        "title": "TBD",
+        "title": "Serving 30,000,000 Requests an Hour in the Cloud",
         "description": "",
         "speakers": [
             4
@@ -63,10 +66,10 @@
     },
     "302": {
         "id": 302,
-        "title": "Why (not) build Progressive Web Apps?",
-        "description": "Progressive Web Apps (PWAs) are the new big thing in web development, but it’s a mistake to simply endorse or reject them. More than a set of technologies, PWAs are about reframing how we build apps for the web and mobile. They’re about building speed and security and responsiveness right into the app instead of relying on fast devices and connections. They’re about making web apps do everything native apps can do without rewriting your entire codebase for different platforms.In this talk you’ll learn how to build progressive web apps and decide why you might or might not want to.",
+        "title": "Machine Learning using Psychic Learn",
+        "description": "From head to tail, learn about machine learning using Psychic Learn",
         "speakers": [
-            13
+            18
         ],
         "language": "English"
     },  
@@ -81,8 +84,8 @@
     },
     "203": {
         "id": 203,
-        "title": "TBD",
-        "description": "",
+        "title": "Web Scraping with Node",
+        "description": "Ever want to systematically search a site with a poor search engine? Or store information from the browser? You are not alone. This is a common first step into web scraping. Come learn how to grab the data you are after.",
         "speakers": [
             11
         ],
@@ -90,7 +93,7 @@
     },
     "303": {
         "id": 303,
-        "title": "TBD",
+        "title": "The Smart Shiba's Guide to Image Formats",
         "description": "",
         "speakers": [
             15,16
@@ -99,8 +102,8 @@
     },  
     "104": {
         "id": 104,
-        "title": "TBD",
-        "description": "",
+        "title": "Using Firebase to Build a Webapp",
+        "description": "Using Firebase to Build a Webapp without Backend Code",
         "speakers": [
             6
         ],
@@ -108,7 +111,7 @@
     },
     "204": {
         "id": 204,
-        "title": "",
+        "title": " Polymer and Web Components BEYOND",
         "description": "",
         "speakers": [
             5
@@ -117,7 +120,7 @@
     },
     "304": {
         "id": 304,
-        "title": "TBD",
+        "title": "Depolying on AppEng - Rock, Paper, Scisors / Unknown",
         "description": "",
         "speakers": [
             15,17
@@ -126,8 +129,8 @@
     },  
     "105": {
         "id": 105,
-        "title": "TBD",
-        "description": "",
+        "title": "Magic in the Cloud with Node.js",
+        "description": "Node.js makes building web applications and APIs easy – Google App Engine makes running node.js in production fun. Walk through deploying a Hello World app, using the gcloud npm module to talk to other Google Cloud services, and using the Cloud Vision API to analyze images.",
         "speakers": [
             3
         ],
@@ -135,17 +138,20 @@
     },
     "205": {
         "id": 205,
-        "title": "Android and Seven Dwarfs",
-        "description": "Android is a great OS and it's Java based programming environment has offered an easy learning curve, great adaptation but also brought its own pitfalls and problems. The httpclient shipped with android is buggy and outdated, Java's programming model does not encourage developers to use separate threads for non-ui related tasks, use of anonymous inner classes for listeners create a burden and ugly code and of course this list goes on. This talk will focus on seven great open source libraries which do fix Android's programming model, the way jquery fixes javascript. The libraries will be covered with example code, advantages, disadvantages, internals and when to use them.",
+        "title": "\"The Docs Are Amazing\": Using Sphinx to auto-document software, and other stuff too",
+        "description": "Learn how to use Sphinx - a tool that makes it easy to create intelligent and beautiful documentation. ",
         "speakers": [
-            14
+            19
         ],
         "language": "English"
     },
     "305": {
         "id": 305,
-        "title": "",
-        "description": "",
+        "title": "Why (not) build Progressive Web Apps?",
+        "description": "Progressive Web Apps (PWAs) are the new big thing in web development, but it’s a mistake to simply endorse or reject them. More than a set of technologies, PWAs are about reframing how we build apps for the web and mobile. They’re about building speed and security and responsiveness right into the app instead of relying on fast devices and connections. They’re about making web apps do everything native apps can do without rewriting your entire codebase for different platforms.In this talk you’ll learn how to build progressive web apps and decide why you might or might not want to.",
+        "speakers": [
+            13
+        ],
         "language": "English"
     },   
 
