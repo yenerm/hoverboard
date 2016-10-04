@@ -140,7 +140,7 @@
         "country": "CA, USA",
         "photoUrl": "/images/people/martin.jpg",
         "shortBio": "The Legend",
-        "bio": "Martin Omander, the man, the myth, the legend, all the way from the Google HQ in Silicon Valley Developer Relations Team.",
+        "bio": "Martin Omander works for Google in Mountain View, California. His job in the Developer Relations team is to support awesome developer communities, like the Google Developer Groups. On his spare time he manages to sneak in some programming, usually writing HTML5 apps running on top of Firebase. Before Google, Martin worked at string of startups in Silicon Valley as a software engineer.",
         "tags": [
             "Developer Relations"
         ],
@@ -163,7 +163,7 @@
         "country": "CA, USA",
         "photoUrl": "/images/people/liz_revised.jpg",
         "shortBio": "Program Manager for Privacy and Security",
-        "bio": "Program Manager for Privacy and Security",
+        "bio": "Is a Program Manager for Privacy and Security. Her job is to gain and maintain user trust. She is also a skilled public speaker who has trained world experts and Googlers.",
         "tags": [
             "Privacy and Security"
         ],
@@ -349,7 +349,7 @@
         "companyLogo": "/images/logos/clover.png",
         "country": "CA, USA",
         "photoUrl": "/images/people/james_cha.jpg",
-        "shortBio": "",
+        "shortBio": "Developer Advocate at Clover, Co-Host of DevelopHerDevelopHim",
         "bio": "",
         "tags": [
             "--"
@@ -412,12 +412,12 @@
         "id": 17,
         "featured": "false",
         "name": "Jessica Earley",
-        "title": "",
-        "company": "",
-        "companyLogo": "/images/logos/",
+        "title": "Director of Part-Time Education",
+        "company": "Hackbright",
+        "companyLogo": "/images/logos/hackbright.jpg",
         "country": "CA, USA",
         "photoUrl": "/images/people/jessica.jpg",
-        "shortBio": "",
+        "shortBio": "Director of Part-Time Education at Hackbright, Co-Host of DevelopHerDevelopHim",
         "bio": "",
         "tags": [
             "--"
@@ -473,7 +473,7 @@
             }
         ],
         "socials": [
- 
+
         ]
     },
      "19": {

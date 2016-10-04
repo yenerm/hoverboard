@@ -45,7 +45,7 @@
             12
         ],
         "language": "English"
-    },   
+    },
     "102": {
         "id": 102,
         "title": "Serving 30,000,000 Requests an Hour in the Cloud",
@@ -72,7 +72,7 @@
             18
         ],
         "language": "English"
-    },  
+    },
     "103": {
         "id": 103,
         "title": "TBD",
@@ -93,13 +93,13 @@
     },
     "303": {
         "id": 303,
-        "title": "The Smart Shiba's Guide to Image Formats",
-        "description": "",
+        "title": "The Clover Platform / The Smart Shiba's Guide to Image Formats",
+        "description": "2 Sessions. First learn what it means to develop on the Clover Platform. Second Learn about managing your images with all the different types aviable.",
         "speakers": [
             15,16
         ],
         "language": "English"
-    },  
+    },
     "104": {
         "id": 104,
         "title": "Using Firebase to Build a Webapp",
@@ -120,13 +120,13 @@
     },
     "304": {
         "id": 304,
-        "title": "Depolying on AppEng - Rock, Paper, Scisors / Unknown",
-        "description": "",
+        "title": "Depolying on AppEng - Rock, Paper, Scisors / Android and the Seven Dwarfs",
+        "description": "2 Sessions During this time. First is Learn to deploy your Python App to App engine with DevelopHerDevelopHim and Second Session is Android's Java based programming environment has offered an easy learning curve, great adaptation but also brought its own pitfalls and problems. The httpclient shipped with android is buggy and outdated, Java's programming model does not encourage developers to use separate threads for non-ui related tasks, use of anonymous inner classes for listeners create a burden and ugly code and of course this list goes on. This talk will focus on seven great open source libraries which do fix Android's programming model, the way jquery fixes javascript. The libraries will be covered with example code, advantages, disadvantages, internals and when to use them.",
         "speakers": [
-            15,17
+            15,17,14
         ],
         "language": "English"
-    },  
+    },
     "105": {
         "id": 105,
         "title": "Magic in the Cloud with Node.js",
@@ -153,12 +153,18 @@
             13
         ],
         "language": "English"
-    },   
+    },
 
     "137": {
         "id": 137,
         "title": "Afterparty & Networking",
         "description": "Afterparty is a great time to have some fun and meet new people",
         "image": "/images/backgrounds/party.jpg"
+    },
+
+    "400": {
+      "id": 400,
+      "title": "Firebase Code lab",
+      "description": "Get hands on experience with Firebase with the help of the Firebase Team"
     }
 }
