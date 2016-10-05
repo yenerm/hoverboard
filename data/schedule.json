@@ -4,9 +4,11 @@
     "tracks": [{
         "title": "Main Room"
     }, {
-        "title": "Beale"
+        "title": "Green"
     }, {
-        "title": "Howard"
+        "title": "Yellow"
+    },  {
+        "title": "Conference Room"
     }],
     "timeslots": [{
         "startTime": "08:30",
@@ -48,6 +50,12 @@
             [400]
         ]
     }, {
+        "startTime": "12:00",
+        "endTime": "1:00",
+        "sessions": [
+            [401]
+        ]
+    },{
         "startTime": "1:10",
         "endTime": "2:00",
         "sessions": [

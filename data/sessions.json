@@ -2,13 +2,11 @@
     "98": {
         "id": 98,
         "title": "Doors Open",
-        "description": "",
-        "language": "English"
+        "description": ""
     },"99": {
         "id": 99,
         "title": "Breakfast",
-        "description": "",
-        "language": "English"
+        "description": ""
     },
     "100": {
         "id": 100,
@@ -16,8 +14,7 @@
         "description": "",
         "speakers": [
             20
-        ],
-        "language": "English"
+        ]
     },
     "101": {
         "id": 101,
@@ -25,8 +22,7 @@
         "description": "Romain and Chet talk about some of their passions in user interfaces: animations and color",
         "speakers": [
             1,2
-        ],
-        "language": "English"
+        ]
     },
     "201": {
         "id": 201,
@@ -34,8 +30,7 @@
         "description": "Startups are hard. Whether it's prototyping stage where you have to maintain your costs low, or production where you need a plethora of tools at your disposal to be a reliable service. We will together explore how NodeJS on Google Cloud Platform can make your life simpler. We will be starting with a small prototyping application and run a sample app on production utilizing various features of Google Cloud.",
         "speakers": [
             9
-        ],
-        "language": "English"
+        ]
     },
     "301": {
         "id": 301,
@@ -43,8 +38,7 @@
         "description": "Couchbase Mobile is not only easy to use, but won’t leave you hanging.  Come for the simplicity.  Stay for the flexibility.This isn’t theory for hardcore database jockeys.  Join us for an in-depth, practical exploration of how NoSQL/Couchbase Mobile can simplify your mobile development.  We’ll drill down on two key reasons you’ll want to switch: ease-of-use and flexibility.  You may never write a SQL statement again.",
         "speakers": [
             12
-        ],
-        "language": "English"
+        ]
     },
     "102": {
         "id": 102,
@@ -52,8 +46,7 @@
         "description": "",
         "speakers": [
             4
-        ],
-        "language": "English"
+        ]
     },
     "202": {
         "id": 202,
@@ -61,8 +54,7 @@
         "description": "Software engineers are often inundated with the latest mantras: fail fast, agile development, customer development, the lean startup, minimum viable product, pair programming, acceptance testing, continuous improvement! What do these actually mean? Why do they work for their proponents? Will they work for you?With the seemingly simple, yet fun and complex game of hangman, we’ll connect the dots between all of these ideas by teasing out simple principles around information gain, failure, success and diversity from the game.We’ll then explore how we, as software engineers, can apply those principles to write better code, work in teams more effectively and deliver software that provides long term value.With the seemingly simple, yet fun and complex game of hangman, we’ll connect the dots between all of these religions by teasing out simple principles around information gain, failure, success and diversity from the game.We’ll then explore how we, as software engineers, can apply those principles to write better code, work in teams more effectively and deliver software that provides long term value.",
         "speakers": [
             10
-        ],
-        "language": "English"
+        ]
     },
     "302": {
         "id": 302,
@@ -70,8 +62,7 @@
         "description": "From head to tail, learn about machine learning using Psychic Learn",
         "speakers": [
             18
-        ],
-        "language": "English"
+        ]
     },
     "103": {
         "id": 103,
@@ -79,8 +70,7 @@
         "description": "",
         "speakers": [
             7,8
-        ],
-        "language": "English"
+        ]
     },
     "203": {
         "id": 203,
@@ -88,8 +78,7 @@
         "description": "Ever want to systematically search a site with a poor search engine? Or store information from the browser? You are not alone. This is a common first step into web scraping. Come learn how to grab the data you are after.",
         "speakers": [
             11
-        ],
-        "language": "English"
+        ]
     },
     "303": {
         "id": 303,
@@ -97,8 +86,7 @@
         "description": "2 Sessions. First learn what it means to develop on the Clover Platform. Second Learn about managing your images with all the different types aviable.",
         "speakers": [
             15,16
-        ],
-        "language": "English"
+        ]
     },
     "104": {
         "id": 104,
@@ -106,8 +94,7 @@
         "description": "Using Firebase to Build a Webapp without Backend Code",
         "speakers": [
             6
-        ],
-        "language": "English"
+        ]
     },
     "204": {
         "id": 204,
@@ -115,8 +102,7 @@
         "description": "",
         "speakers": [
             5
-        ],
-        "language": "English"
+        ]
     },
     "304": {
         "id": 304,
@@ -124,8 +110,7 @@
         "description": "2 Sessions During this time. First is Learn to deploy your Python App to App engine with DevelopHerDevelopHim and Second Session is Android's Java based programming environment has offered an easy learning curve, great adaptation but also brought its own pitfalls and problems. The httpclient shipped with android is buggy and outdated, Java's programming model does not encourage developers to use separate threads for non-ui related tasks, use of anonymous inner classes for listeners create a burden and ugly code and of course this list goes on. This talk will focus on seven great open source libraries which do fix Android's programming model, the way jquery fixes javascript. The libraries will be covered with example code, advantages, disadvantages, internals and when to use them.",
         "speakers": [
             15,17,14
-        ],
-        "language": "English"
+        ]
     },
     "105": {
         "id": 105,
@@ -133,8 +118,7 @@
         "description": "Node.js makes building web applications and APIs easy – Google App Engine makes running node.js in production fun. Walk through deploying a Hello World app, using the gcloud npm module to talk to other Google Cloud services, and using the Cloud Vision API to analyze images.",
         "speakers": [
             3
-        ],
-        "language": "English"
+        ]
     },
     "205": {
         "id": 205,
@@ -142,8 +126,7 @@
         "description": "Learn how to use Sphinx - a tool that makes it easy to create intelligent and beautiful documentation. ",
         "speakers": [
             19
-        ],
-        "language": "English"
+        ]
     },
     "305": {
         "id": 305,
@@ -151,8 +134,7 @@
         "description": "Progressive Web Apps (PWAs) are the new big thing in web development, but it’s a mistake to simply endorse or reject them. More than a set of technologies, PWAs are about reframing how we build apps for the web and mobile. They’re about building speed and security and responsiveness right into the app instead of relying on fast devices and connections. They’re about making web apps do everything native apps can do without rewriting your entire codebase for different platforms.In this talk you’ll learn how to build progressive web apps and decide why you might or might not want to.",
         "speakers": [
             13
-        ],
-        "language": "English"
+        ]
     },
 
     "137": {
@@ -165,6 +147,15 @@
     "400": {
       "id": 400,
       "title": "Firebase Code lab",
-      "description": "Get hands on experience with Firebase with the help of the Firebase Team"
+      "description": "Get hands on experience with Firebase with the help of the Firebase Team",
+      "speakers": [
+        7,21,22
+      ]
+    },
+
+    "401": {
+      "id": 401,
+      "title": "Lunch",
+      "description": "Lunch"
     }
 }

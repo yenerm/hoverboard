@@ -252,9 +252,10 @@
         "companyLogo": "/images/logos/claire.svg",
         "country": "CA, USA",
         "photoUrl": "/images/people/claire.jpg",
-        "shortBio": "",
-        "bio": "",
+        "shortBio": "Claire Bendersky is a software engineer and educator in the San Francisco Bay Area.",
+        "bio": "Claire Bendersky is a software engineer and educator in the San Francisco Bay Area. She strives to strengthen and elevate her community through access to data and knowledge of how to access data.",
         "tags": [
+          "Web"
 
         ],
         "badges": [
@@ -352,7 +353,7 @@
         "shortBio": "Developer Advocate at Clover, Co-Host of DevelopHerDevelopHim",
         "bio": "",
         "tags": [
-            "--"
+            "Clover Platform"
         ],
         "badges": [
 
@@ -394,7 +395,7 @@
         "shortBio": "Former schoolteacher, professionally coding for the web since 2006.  I love making things and empowering others to make things they didn't think they could.",
         "bio": "Former schoolteacher, professionally coding for the web since 2006.  I love making things and empowering others to make things they didn't think they could.",
         "tags": [
-            "--"
+            "Web"
         ],
         "badges": [
             {
@@ -420,7 +421,7 @@
         "shortBio": "Director of Part-Time Education at Hackbright, Co-Host of DevelopHerDevelopHim",
         "bio": "",
         "tags": [
-            "--"
+            "Web"
         ],
         "badges": [
             {
@@ -466,7 +467,7 @@
         "shortBio": "Henry recieved his Physics PhD from Harvard and worked in theoretical physics and ...",
         "bio": "Henry recieved his Physics PhD from Harvard and worked in theoretical physics and the nonprofit world. He joined and co-founded a startup, where he learned to program. He has worked as a data scientist and software engineer for several years. Outside of work, Henry is an experienced dog trainer and enjoys graphic novels, donuts, and 90's hip hop.",
         "tags": [
-            "--"
+            "Web"
         ],
         "badges": [
             {
@@ -488,7 +489,7 @@
         "shortBio": "Formerly an internal tools software engineer, Meggie is ...",
         "bio": "Formerly an internal tools software engineer, Meggie is now, happily, a classroom-dweller at Hackbright. Years ago, she soul-searchingly parted with studies in social cognition and feminist theory to become a software engineer. While not computering, Meggie enjoys modern dance, delis, and public speaking.",
         "tags": [
-            "--"
+            "Web"
         ],
         "badges": [
             {
@@ -510,7 +511,7 @@
         "shortBio": "Joel Burton is the VP of Fellowship Education for Hackbright Academy. His previous technology ...",
         "bio": "Joel Burton is the VP of Fellowship Education for Hackbright Academy. His previous technology work includes positions with Apple, Planned Parenthood, and as an independent consultant, trainer, and author on web application development. He is a major contributor to several open source projects, including Python, Plone, and PostgreSQL.",
         "tags": [
-            "--"
+            "Web"
         ],
         "badges": [
             {
@@ -519,5 +520,49 @@
         "socials": [
 
         ]
-    }
+    },
+    "21": {
+       "id": 21,
+       "featured": "false",
+       "name": "Arthur Thompson",
+       "title": "",
+       "company": "Google",
+       "companyLogo": "/images/logos/google.svg",
+       "country": "CA, USA",
+       "photoUrl": "/images/people/arthur.jpeg",
+       "shortBio": "Arthur taught math and computer science for 7 years before coming to Google.",
+       "bio": "Arthur taught math and computer science for 7 years before coming to Google. I then worked on various Google developer relation projects, including GMail API and Google Drive Android API. I now work on Firebase where I hope to help developers build better apps.",
+       "tags": [
+           "Firebase"
+       ],
+       "badges": [
+           {
+           }
+       ],
+       "socials": [
+
+       ]
+   },
+   "22": {
+      "id": 22,
+      "featured": "false",
+      "name": "Dan Schlosser",
+      "title": "",
+      "company": "Google",
+      "companyLogo": "/images/logos/google.svg",
+      "country": "CA, USA",
+      "photoUrl": "/images/people/",
+      "shortBio": "Googler",
+      "bio": "",
+      "tags": [
+          "Firebase"
+      ],
+      "badges": [
+          {
+          }
+      ],
+      "socials": [
+
+      ]
+  }
 }
