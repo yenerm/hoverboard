@@ -551,9 +551,9 @@
       "company": "Google",
       "companyLogo": "/images/logos/google.svg",
       "country": "CA, USA",
-      "photoUrl": "/images/people/",
-      "shortBio": "Googler",
-      "bio": "",
+      "photoUrl": "/images/people/dan.png",
+      "shortBio": "Dan Schlosser is an Associate Product Manager",
+      "bio": "Dan Schlosser is an Associate Product Manager working on improving the Firebase developer experience in the Firebase Console and in Android Studio. Previously at Google, Dan worked on Polymer, a JavaScript library that helps web developers take advantage of the future of the web platform. In his free time, Dan is a web developer and CSS nerd. Dan recently graduated Columbia University with a degree in Computer Science. ",
       "tags": [
           "Firebase"
       ],
