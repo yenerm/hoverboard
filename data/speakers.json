@@ -139,7 +139,7 @@
         "companyLogo": "/images/logos/google.svg",
         "country": "CA, USA",
         "photoUrl": "/images/people/martin.jpg",
-        "shortBio": "The Legend",
+        "shortBio": "Developer Relations At Google",
         "bio": "Martin Omander works for Google in Mountain View, California. His job in the Developer Relations team is to support awesome developer communities, like the Google Developer Groups. On his spare time he manages to sneak in some programming, usually writing HTML5 apps running on top of Firebase. Before Google, Martin worked at string of startups in Silicon Valley as a software engineer.",
         "tags": [
             "Developer Relations"
